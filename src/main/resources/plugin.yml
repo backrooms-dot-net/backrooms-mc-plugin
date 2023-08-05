@@ -1,0 +1,9 @@
+name: Backrooms
+version: '${project.version}'
+main: net.backrooms.backrooms.Backrooms
+api-version: 1.20
+prefix: backrooms.net
+load: STARTUP
+authors: [ TGeneDavis ]
+description: Backrooms dot net universe for Minecraft
+website: https://backrooms.net
